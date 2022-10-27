@@ -27,6 +27,8 @@ To keep track of store inventory through adding, changing, or deleting items, ta
 1. Run the program using "npm start" in the terminal. 
 2. Use Insomnia to send requests to the backend.
 
+See https://youtu.be/C7VrOhIOOxs for video walkthrough.
+
 ## Images
 
 ### Get request for Tags
